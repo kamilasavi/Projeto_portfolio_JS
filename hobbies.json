@@ -1,0 +1,44 @@
+[
+    {
+        "produto": "Produto 01",
+        "preco": 3.65,
+        "descricao": "Lorem ipsum!",
+        "em_estoque": true,
+        "img": "assets/imgs/img001.jpg"
+    },
+    {
+        "produto": "Produto 02",
+        "preco": 100.00,
+        "descricao": "Lorem ipsum! Not ipsum!",
+        "em_estoque": false,
+        "img": "assets/imgs/img002.jpg"
+    },
+    {
+        "produto": "Produto 03",
+        "preco": 0.90,
+        "descricao": "Lorem ipsum! Not ipsum! Outro ipsum!",
+        "em_estoque": true,
+        "img": "assets/imgs/img003.jpg"
+    },
+    {
+        "produto": "Produto 04",
+        "preco": 7.95,
+        "descricao": "Lorem ipsum!",
+        "em_estoque": false,
+        "img": "assets/imgs/img004.jpg"
+    },
+    {
+        "produto": "Produto 05",
+        "preco": 50.99,
+        "descricao": "Lorem ipsum! Not ipsum!",
+        "em_estoque": false,
+        "img": "assets/imgs/img005.jpg"
+    },
+    {
+        "produto": "Produto 06",
+        "preco": 1.95,
+        "descricao": "Lorem ipsum! Not ipsum! Outro ipsum!",
+        "em_estoque": true,
+        "img": "assets/imgs/img006.jpg"
+    }
+]
